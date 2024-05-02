@@ -1,0 +1,16 @@
+{
+    "export": {
+        "save_to": "/home/etienne/Dropbox/Paper/P7_pblt_conn/Figures/",
+        "review": "/home/etienne/Dropbox/Paper/P7_pblt_conn/Review/",
+        "cfg": {
+            "dpi": 300,
+            "bbox_inches": "tight",
+            "facecolor": "white"
+        }
+    },
+    "nb_pos": [-0.1, 1.05],
+    "nb_cfg": {
+        "size": 20,
+        "weight": "bold"
+    }
+}
